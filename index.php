@@ -18,7 +18,7 @@ $alvaroisgay = 'yes'; //TIP: Don't set this to no
 
 //The crappy script begins......
  if ($alvaroisgay == "yes")
-  {
+        {
 	 echo "Yaayy. you're right!!!";
 	 //Now you're my best friend yaay :)
 	}
@@ -31,9 +31,9 @@ $alvaroisgay = 'yes'; //TIP: Don't set this to no
    //Don't mess wit da bess G
  else
    //What happends to people tryin to mess me up
-    {
-	  echo $alvaroisgay . ' is not a yes or a no';
-    }
+        {
+         echo $alvaroisgay . ' is not a yes or a no';
+        }
 	
 //Shitty script keeps shitty but i don't giv a fuuuuuuuuck!
 ?>
